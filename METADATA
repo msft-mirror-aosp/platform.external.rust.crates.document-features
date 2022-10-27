@@ -1,0 +1,20 @@
+name: "document-features"
+description: "Extract documentation for the feature flags from comments in Cargo.toml"
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/document-features"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/document-features/document-features-0.2.6.crate"
+  }
+  version: "0.2.6"
+  # Dual-licensed, using the least restrictive per go/thirdpartylicenses#same.
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2022
+    month: 10
+    day: 27
+  }
+}
