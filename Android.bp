@@ -50,4 +50,6 @@ rust_proc_macro {
     rustlibs: [
         "liblitrs",
     ],
+    product_available: true,
+    vendor_available: true,
 }
